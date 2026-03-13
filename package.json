@@ -1,0 +1,15 @@
+{
+  "name": "car-rental-frontend",
+  "version": "1.0.0",
+  "description": "Static frontend for Car Rental Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "python": "python server.py",
+    "dev": "node server.js"
+  },
+  "keywords": ["car-rental", "frontend", "static"],
+  "author": "Car Rental Portal",
+  "license": "MIT"
+}
